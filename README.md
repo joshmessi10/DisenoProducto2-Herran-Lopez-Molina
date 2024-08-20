@@ -3,18 +3,18 @@
 
 <br />
 
-##Integrantes:  
+## Integrantes:  
 
-###Juan Sebastián Herrán Paez  
+### Juan Sebastián Herrán Paez  
 
-###Josh Sebastián López Murcia  
+### Josh Sebastián López Murcia  
 
-###Sergio Andrés Molina Buritica  
+### Sergio Andrés Molina Buritica  
 
 <br />
 
-##Fase 1: Brainstorming  
+## Fase 1: Brainstorming  
 
-##Fase 2: Filtering  
+## Fase 2: Filtering  
 
-##Fase 3: Idea Development  
+## Fase 3: Idea Development  
