@@ -1,19 +1,19 @@
 # DisenoProducto2-Herran-Lopez-Molina
 
-Proyecto Diseño de Producto 2
+Proyecto Diseño de Producto 2__
 
 
-Integrantes:
+Integrantes:__
 
-Juan Sebastián Herrán Paez
+Juan Sebastián Herrán Paez__
 
-Josh Sebastián López Murcia
+Josh Sebastián López Murcia__
 
-Sergio Andrés Molina Buritica
+Sergio Andrés Molina Buritica__
 
 
-Fase 1: Brainstorming
+Fase 1: Brainstorming__
 
-Fase 2: Filtering
+Fase 2: Filtering__
 
-Fase 3: Idea Development
+Fase 3: Idea Development__
