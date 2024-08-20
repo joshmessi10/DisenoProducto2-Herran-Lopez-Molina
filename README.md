@@ -2,6 +2,7 @@
 
 Proyecto Diseño de Producto 2  
 
+<br />
 
 Integrantes:  
 
@@ -11,6 +12,7 @@ Josh Sebastián López Murcia
 
 Sergio Andrés Molina Buritica  
 
+<br />
 
 Fase 1: Brainstorming  
 
