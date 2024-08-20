@@ -13,8 +13,8 @@
 
 <br />
 
-## Fase 1: Brainstorming  
+## Fase 1: Lluvia de Ideas 
 
-## Fase 2: Filtering  
+## Fase 2: Filtrado de Ideas 
 
-## Fase 3: Idea Development  
+## Fase 3: Desarrollo del Concepto
