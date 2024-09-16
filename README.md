@@ -21,4 +21,4 @@
 
 ## Fase 3.1: Diseño
 
-PCB: https://drive.google.com/file/d/16QPRTJUHPWNksSPnyZkSTy4Cs0qXFjlv/view?usp=sharing
+PCB: https://drive.google.com/file/d/1pooRSlQpMXtJB-THg4GDjAWf-neVCCPn/view?usp=drive_link
