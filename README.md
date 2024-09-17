@@ -19,6 +19,7 @@
 
 ## Fase 3: Desarrollo del Concepto
 
-## Fase 3.1: Diseño
+## Fase 4: Diseño PCB
 
-PCB: https://drive.google.com/file/d/1pooRSlQpMXtJB-THg4GDjAWf-neVCCPn/view?usp=drive_link
+PCB: https://drive.google.com/file/d/1pooRSlQpMXtJB-THg4GDjAWf-neVCCPn/view?usp=sharing
+PCB V2: https://drive.google.com/file/d/1FqLUBB_gA9NdK0NIVvKOZiQvWXS9FhpR/view?usp=sharing
