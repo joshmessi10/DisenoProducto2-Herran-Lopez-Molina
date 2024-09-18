@@ -26,7 +26,7 @@
   *	Localización precisa en caso de pérdida
 
 *	Funcionalidad: 
-  *	Integración con aplicación móvil
+  *	Sub Integración con aplicación móvil
   *	Comunicación via Bluetooth
   *	Estadísticas en tiempo real: (Fecha y hora de apertura, movimientos anormales, registro de acceso no autorizado, registro de ubicación/última ubicación disponible)
 *	Ergonomía: 
