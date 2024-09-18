@@ -18,9 +18,13 @@
 ## Fase 2: Filtrado de Ideas 
 
 ## Fase 3: Desarrollo del Concepto: Billetera Inteligente
+
  Markup : * Bullet list
+ 
               * Nested bullet
+              
                   * Sub-nested bullet etc
+                  
           * Bullet list item 2
 
 -OR-
