@@ -33,7 +33,8 @@
               - Nested bullet
                   - Sub-nested bullet etc
           - Bullet list item 2 
-*	Seguridad: 
+*	Seguridad:
+  
           -	Protección contra acceso no autorizado
 -	Alarma por Alejamiento
 -	Detección de caídas accidentales
