@@ -1,5 +1,5 @@
 
-# Proyecto Diseño de Producto 2  
+# Proyecto Diseño de Producto 2: Billetera Inteligente
 
 <br />
 
@@ -17,7 +17,23 @@
 
 ## Fase 2: Filtrado de Ideas 
 
-## Fase 3: Desarrollo del Concepto
+## Fase 3: Desarrollo del Concepto: Billetera Inteligente
+
+*	Seguridad: 
+  *	Protección contra acceso no autorizado
+  *	Alarma por Alejamiento
+  *	Detección de caídas accidentales
+  *	Localización precisa en caso de pérdida
+
+*	Funcionalidad: 
+  *	Integración con aplicación móvil
+  *	Comunicación via Bluetooth
+  *	Estadísticas en tiempo real: (Fecha y hora de apertura, movimientos anormales, registro de acceso no autorizado, registro de ubicación/última ubicación disponible)
+*	Ergonomía: 
+  *	Tamaño reducido para integración en cualquier billetera
+*	Durabilidad:
+  *	BLE (Bluetooth Low Energy): Larga duración de la batería
+
 
 ## Fase 4: Diseño Esquemático
 
