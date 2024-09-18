@@ -48,15 +48,15 @@
 
 ## Fase 4: Diseño Esquemático
 
-![alt text](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/Schematic.png?raw=true)
+![Schematic](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/Schematic.png?raw=true)
 
 ## Fase 5: Diseño de PCB
 
-PCB V2: https://drive.google.com/file/d/1qdSnYxsl54y-Dv2ww-7jwgotphZtx25G/view?usp=sharing
+PCB V2: https://drive.google.com/file/d/1Xrf9OQVS8kMlEllTjLQ5X2ZT79qrBhB-/view?usp=sharing
 
-![alt text](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCB.png?raw=true)
+![PCB 2D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCB.png?raw=true)
 
-![alt text](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCB_3D.png?raw=true)
+![PCB 3D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCB_3D.png?raw=true)
 
 *Hace falta la integración del módulo ADXL345 y el módulo de carga en la PCB
 
