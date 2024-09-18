@@ -20,10 +20,10 @@
 ## Fase 3: Desarrollo del Concepto: Billetera Inteligente
 
 *	Seguridad: 
-  *	Protección contra acceso no autorizado
-  *	Alarma por Alejamiento
-  *	Detección de caídas accidentales
-  *	Localización precisa en caso de pérdida
+-	Protección contra acceso no autorizado
+-	Alarma por Alejamiento
+-	Detección de caídas accidentales
+-	Localización precisa en caso de pérdida
 
 *	Funcionalidad: 
   *	Sub Integración con aplicación móvil
