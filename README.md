@@ -19,21 +19,7 @@
 
 ## Fase 3: Desarrollo del Concepto: Billetera Inteligente
 
- Markup : * Bullet list
- 
-              * Nested bullet
-              
-                  * Sub-nested bullet etc
-                  
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
-*	Seguridad:
+### Seguridad:
   
 -	Protección contra acceso no autorizado
   
@@ -43,13 +29,20 @@
   
 -	Localización precisa en caso de pérdida
 
-*	Funcionalidad: 
+###	Funcionalidad: 
+
   *	Sub Integración con aplicación móvil
+    
   *	Comunicación via Bluetooth
+    
   *	Estadísticas en tiempo real: (Fecha y hora de apertura, movimientos anormales, registro de acceso no autorizado, registro de ubicación/última ubicación disponible)
-*	Ergonomía: 
+    
+###	Ergonomía: 
+
   *	Tamaño reducido para integración en cualquier billetera
-*	Durabilidad:
+    
+###	Durabilidad:
+
   *	BLE (Bluetooth Low Energy): Larga duración de la batería
 
 
