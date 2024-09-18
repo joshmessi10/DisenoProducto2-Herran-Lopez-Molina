@@ -56,5 +56,7 @@ PCB V2: https://drive.google.com/file/d/1qdSnYxsl54y-Dv2ww-7jwgotphZtx25G/view?u
 
 ![alt text](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCB.png?raw=true)
 
+![alt text](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCB_3D.png?raw=true)
+
 
 
