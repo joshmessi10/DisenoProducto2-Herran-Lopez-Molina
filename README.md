@@ -19,9 +19,13 @@
 
 ## Fase 3: Desarrollo del Concepto
 
-## Fase 4: Diseño PCB
+## Fase 4: Diseño Esquemático
 
-PCB: https://drive.google.com/file/d/1pooRSlQpMXtJB-THg4GDjAWf-neVCCPn/view?usp=sharing
+![alt text](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina//blob/Images/Schematic.png?raw=true)
+
+## Fase 5: Diseño de PCB
+
+![alt text](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina//blob/Images/PCB.png?raw=true)
 
 
 PCB V2: https://drive.google.com/file/d/1FqLUBB_gA9NdK0NIVvKOZiQvWXS9FhpR/view?usp=sharing
