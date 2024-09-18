@@ -34,7 +34,7 @@
                   - Sub-nested bullet etc
           - Bullet list item 2 
 *	Seguridad: 
--	Protección contra acceso no autorizado
+          -	Protección contra acceso no autorizado
 -	Alarma por Alejamiento
 -	Detección de caídas accidentales
 -	Localización precisa en caso de pérdida
