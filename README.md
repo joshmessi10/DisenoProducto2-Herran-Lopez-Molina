@@ -52,7 +52,7 @@
 
 ## Fase 5: Diseño de PCB
 
-PCB V3: https://drive.google.com/file/d/1_fBBA95fIbqjc8yl-Cb5X0gYM83vqySH/view?usp=sharing
+PCB Final Version: https://drive.google.com/file/d/1_fBBA95fIbqjc8yl-Cb5X0gYM83vqySH/view?usp=sharing
 
 ![PCB 2D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PCBFinal2D.png?raw=true)
 
