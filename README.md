@@ -54,9 +54,9 @@
 
 PCB V3: https://drive.google.com/file/d/1AomeHqs6h2b_Ka52K7NnKU9u7hKCybVt/view?usp=sharing
 
-![PCB 2D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCBV3N2.png?raw=true)
+![PCB 2D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/PCB2D.png?raw=true)
 
-![PCB 3D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/PCBV3N3.png?raw=true)
+![PCB 3D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/PCB3D.png?raw=true)
 
 
 
