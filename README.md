@@ -48,7 +48,7 @@
 
 ## Fase 4: Diseño Esquemático
 
-![Schematic](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/Images/SchematicV3.png?raw=true)
+![Schematic](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PCBFinalSchematic.png?raw=true)
 
 ## Fase 5: Diseño de PCB
 
