@@ -60,6 +60,9 @@ PCB Final Version: https://drive.google.com/file/d/1_fBBA95fIbqjc8yl-Cb5X0gYM83v
 
 ## Fase 6: Diseño de Base de Datos
 
+DbDocs Link: https://dbdocs.io/joshmessi10/smart_wallet_database
+
+![Database](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/smart_wallet_database.png?raw=true)
 
 
 
