@@ -65,5 +65,9 @@ DbDocs Link: https://dbdocs.io/joshmessi10/smart_wallet_database
 ![Database](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/smart_wallet_database.png?raw=true)
 
 
+## Fase 7: Diseño de Carcasa del Dispositivo
 
+![Front](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/FrontFusion.png?raw=true)
+
+![Side](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/SideFusion.png?raw=true)
 
