@@ -3,11 +3,11 @@
 
 <br />
 
-FrontEnd Página Web: IP [https:](https://github.com/joshmessi10/frontend)
+IP [FrontEnd Página Web](https://github.com/joshmessi10/frontend)
 
-Backend Página Web: IP [https:](https://github.com/joshmessi10/backend)
+[Backend Página Web](https://github.com/joshmessi10/backend)
 
-Android APP [https:](https://github.com/joshmessi10/AndroidApplication)
+[Android APP](https://github.com/joshmessi10/AndroidApplication)
 
 ## Integrantes:  
 
