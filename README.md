@@ -3,7 +3,7 @@
 
 <br />
 
-IP [FrontEnd Página Web](https://github.com/joshmessi10/frontend)
+[FrontEnd Página Web](https://github.com/joshmessi10/frontend)
 
 [Backend Página Web](https://github.com/joshmessi10/backend)
 
@@ -71,9 +71,25 @@ DbDocs Link: https://dbdocs.io/joshmessi10/smart_wallet_database
 ![Database](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/smart_wallet_database.png?raw=true)
 
 
-## Fase 7: Diseño de Carcasa del Dispositivo
+## Fase 7: Diseño de Carcasa del Dispositivo V1.0
 
 ![Front](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/FrontFusion.png?raw=true)
 
 ![Side](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/SideFusion.png?raw=true)
+
+## Fase 8: Pruebas Previas de Funcionamiento
+
+
+
+## Fase 9: PCB Assembly
+
+
+
+## Fase 10: Diseño de Página Web y Conexión con Mongo DB Atlas
+
+
+[Página Web](http://34.134.170.4)
+
+## Fase 11:  Diseño de Carcasa del Dispositivo V2.0
+
 
