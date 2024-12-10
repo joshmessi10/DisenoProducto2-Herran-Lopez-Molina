@@ -90,6 +90,8 @@ DbDocs Link: https://dbdocs.io/joshmessi10/smart_wallet_database
 
 [Página Web](http://34.134.170.4)
 
-## Fase 11:  Diseño de Carcasa del Dispositivo V2.0
+## Fase 11:  Diseño de Aplicación Android
+
+
 
 
