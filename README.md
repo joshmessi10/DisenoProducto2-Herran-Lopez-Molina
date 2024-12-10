@@ -79,19 +79,20 @@ DbDocs Link: https://dbdocs.io/joshmessi10/smart_wallet_database
 
 ## Fase 8: Pruebas Previas de Funcionamiento
 
-
+![Previous Test](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PreviousTest.png?raw=true)
 
 ## Fase 9: PCB Assembly
 
-
+![PCB Assembly](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PCBAssembly.jpg?raw=true)
 
 ## Fase 10: Diseño de Página Web y Conexión con Mongo DB Atlas
 
+![Webpage](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/WebPage.png?raw=true)
 
 [Página Web](http://34.134.170.4)
 
 ## Fase 11:  Diseño de Aplicación Android
 
-
+![Android App](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/AndroidApp.jpg?raw=true)
 
 
