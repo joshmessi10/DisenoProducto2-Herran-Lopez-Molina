@@ -75,5 +75,6 @@ To explore each part of the project, navigate into the corresponding folder and 
 # 👥 Credits
 
 Alejandro Buelvas García
+
 Josh Sebastián López Murcia
 
