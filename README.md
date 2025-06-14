@@ -26,7 +26,7 @@ A multidisciplinary project focused on designing a Smart Wallet with enhanced se
 - BLE for low power consumption and long battery life
 
 # 📁 Repository Structure
-
+```plaintext
 SmartWallet/
 │
 ├── README.md                  <- General overview (this file)
@@ -56,6 +56,7 @@ SmartWallet/
 └── casing_design/
     ├── README.md              <- Design rationale and print instructions
     └── 3d_models/             <- STL, OBJ, Fusion/Inventor files
+```
 
 ## 🛠 Technologies Used
 
