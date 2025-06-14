@@ -1,98 +1,77 @@
 
-# Proyecto Diseño de Producto 2: Billetera Inteligente
+# 📦 Project Design: Smart Wallet
 
-<br />
+A multidisciplinary project focused on designing a Smart Wallet with enhanced security, tracking, and real-time data access, featuring custom PCB, mobile application, web integration, and mechanical design.
 
-[FrontEnd Página Web](https://github.com/joshmessi10/frontend)
+## 🧠 Features Overview
+### 🔐 Security
 
-[Backend Página Web](https://github.com/joshmessi10/backend)
+- Unauthorized access protection
+- Anti-loss alarm (Bluetooth disconnection)
+- Fall detection
+- Precise location recovery
 
-[Android APP](https://github.com/joshmessi10/AndroidApplication)
+### 📱 Functionality
+- Bluetooth communication with Android app (BLE)
 
-## Integrantes:  
+- Real-time statistics:
+- Date and time of wallet openings
+- Detection of abnormal movements
+- Unauthorized access logs
+- Last known location
 
-### Juan Sebastián Herrán Paez  
+### 🔧 Ergonomics and Durability
 
-### Josh Sebastián López Murcia  
+- Compact PCB design to fit in standard wallets
+- BLE for low power consumption and long battery life
 
-### Sergio Andrés Molina Buritica  
+# 📁 Repository Structure
 
-<br />
+SmartWallet/
+│
+├── README.md                  <- General overview (this file)
+│
+├── hardware/
+│   ├── README.md              <- Schematic, PCB layout (2D & 3D), test results
+│   ├── schematic/             <- Altium files
+│   ├── pcb/                   <- GERBER files, 2D/3D renders
+│   └── testing/               <- Images/videos of pre-solder and post-solder testing
+│
+├── firmware/
+│   ├── README.md              <- Microcontroller code overview
+│   └── src/                   <- C/C++ source code
+│
+├── android_app/
+│   ├── README.md              <- App features and Bluetooth integration
+│   └── SmartWalletApp/        <- Full Android Studio project
+│
+├── web/
+│   ├── README.md              <- Website functionality and usage
+│   └── site/                  <- HTML/CSS/JS or framework files
+│
+├── database/
+│   ├── README.md              <- MongoDB Atlas structure and integration
+│   └── schema/                <- JSON or schema descriptions
+│
+└── casing_design/
+    ├── README.md              <- Design rationale and print instructions
+    └── 3d_models/             <- STL, OBJ, Fusion/Inventor files
 
-## Fase 1: Lluvia de Ideas 
+## 🛠 Technologies Used
 
-## Fase 2: Filtrado de Ideas 
+- **PCB Design:** Altium
+- **Microcontroller:** nRF51822
+- **Bluetooth:** BLE (Low Energy)
+- **Mobile App:** Android (Java/Kotlin)
+- **Database:** MongoDB Atlas
+- **Web:** HTML/CSS/JS or framework (React/Vue/etc.)
+- **3D Design:** Fusion 360
 
-## Fase 3: Desarrollo del Concepto: Billetera Inteligente
+## 🚀 Getting Started
 
-### Seguridad:
-  
--	Protección contra acceso no autorizado
-  
--	Alarma por Alejamiento
-  
--	Detección de caídas accidentales
-  
--	Localización precisa en caso de pérdida
-
-###	Funcionalidad: 
-
-  *	Sub Integración con aplicación móvil
-    
-  *	Comunicación via Bluetooth
-    
-  *	Estadísticas en tiempo real: (Fecha y hora de apertura, movimientos anormales, registro de acceso no autorizado, registro de ubicación/última ubicación disponible)
-    
-###	Ergonomía: 
-
-  *	Tamaño reducido para integración en cualquier billetera
-    
-###	Durabilidad:
-
-  *	BLE (Bluetooth Low Energy): Larga duración de la batería
-
-
-## Fase 4: Diseño Esquemático
-
-![Schematic](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PCBFinalSchematic.png?raw=true)
-
-## Fase 5: Diseño de PCB
-
-PCB Final Version: https://drive.google.com/file/d/1_fBBA95fIbqjc8yl-Cb5X0gYM83vqySH/view?usp=sharing
-
-![PCB 2D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PCBFinal2D.png?raw=true)
-
-![PCB 3D](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PCBFinal3D.png?raw=true)
-
-## Fase 6: Diseño de Base de Datos
-
-DbDocs Link: https://dbdocs.io/joshmessi10/smart_wallet_database
-
-![Database](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/smart_wallet_database.png?raw=true)
-
-
-## Fase 7: Diseño de Carcasa del Dispositivo V1.0
-
-![Front](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/FrontFusion.png?raw=true)
-
-![Side](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/SideFusion.png?raw=true)
-
-## Fase 8: Pruebas Previas de Funcionamiento
-
-![Previous Test](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PreviousTest.png?raw=true)
-
-## Fase 9: PCB Assembly
-
-![PCB Assembly](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/PCBAssembly.jpg?raw=true)
-
-## Fase 10: Diseño de Página Web y Conexión con Mongo DB Atlas
-
-![Webpage](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/WebPage.png?raw=true)
-
-[Página Web](http://34.134.170.4)
-
-## Fase 11:  Diseño de Aplicación Android
-
-![Android App](https://github.com/joshmessi10/DisenoProducto2-Herran-Lopez-Molina/blob/main/images/AndroidApp.jpg?raw=true)
+To explore each part of the project, navigate into the corresponding folder and refer to its README.md.
 
 
+# 👥 Credits
+
+Josh Sebastián López Murcia
