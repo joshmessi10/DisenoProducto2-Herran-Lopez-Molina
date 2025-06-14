@@ -50,11 +50,10 @@ SmartWallet/
 │   └── site/                  <- HTML/CSS/JS or framework files
 │
 ├── database/
-│   ├── README.md              <- MongoDB Atlas structure and integration
-│   └── schema/                <- JSON or schema descriptions
+│   └── README.md              <- MongoDB Atlas structure and integration
 │
 └── casing_design/
-    ├── README.md              <- Design rationale and print instructions
+    ├── README.md             
     └── 3d_models/             <- STL, OBJ, Fusion/Inventor files
 ```
 
