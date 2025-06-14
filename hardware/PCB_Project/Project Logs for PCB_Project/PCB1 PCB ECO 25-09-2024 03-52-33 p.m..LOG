@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetR10_1 New Net Name=ADXL_N
+Change Net Name : Old Net Name=NetR11_1 New Net Name=ADXL_P
+Added Differential Pair: Name=ADXL

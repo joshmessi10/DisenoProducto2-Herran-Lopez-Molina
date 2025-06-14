@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Removed Pin From Net: NetName=NetC25_2 Pin=Y2-3
+Removed Pin From Net: NetName=3V3 Pin=Y2-4
+Change Footprint: Footprint Not Found XTAL320X150X75
+Change Component Comment : Designator=Y2 Old Comment=CO 32.768MHz New Comment=32.768KHZ
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "OSC_ECS-327TXO-33-TR"; UniqueID = "\QGPRTUDR" ("\QGPRTUDR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "9HT10-32.768KAZB-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC25_2 Pin=Y2-2

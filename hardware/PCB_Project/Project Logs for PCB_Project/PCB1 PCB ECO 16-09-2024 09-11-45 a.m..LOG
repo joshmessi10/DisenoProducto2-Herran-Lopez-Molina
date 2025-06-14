@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-0.10
+Removed Pin From Net: NetName=NetR7_2 Pin=U1-0.17
+Add Pin To Net: Unknown Pin: Pin A1-0
+Add Pin To Net: Unknown Pin: Pin A1-GND
+Add Pin To Net: Unknown Pin: Pin A1-VCC
+Added Pin To Net: NetName=NetR3_2 Pin=U1-0.17
+Added Pin To Net: NetName=NetR7_2 Pin=U1-0.20
+Add Class Member: Failed to add class member : Component M1 ESP32S3

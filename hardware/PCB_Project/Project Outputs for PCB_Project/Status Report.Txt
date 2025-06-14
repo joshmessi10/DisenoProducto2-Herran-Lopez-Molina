@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[PCB1-V2_Legend_Top.gbr]
+   Generated File[PCB1-V2_Paste_Top.gbr]
+   Generated File[PCB1-V2_Soldermask_Top.gbr]
+   Generated File[PCB1-V2_Copper_Signal_Top.gbr]
+   Generated File[PCB1-V2_Copper_Signal_Bot.gbr]
+   Generated File[PCB1-V2_Soldermask_Bot.gbr]
+   Generated File[PCB1-V2_Paste_Bot.gbr]
+   Generated File[PCB1-V2_Legend_Bot.gbr]
+   Generated File[PCB1-V2_Profile.gbr]
+   Generated File[PCB1-V2.EXTREP]
+   Generated File[PCB1-V2.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 08:06:54 p.m. On 18/10/2024

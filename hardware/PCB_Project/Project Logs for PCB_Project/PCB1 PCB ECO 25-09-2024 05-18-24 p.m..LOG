@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=U1-40
+Removed Pin From Net: NetName=NetR7_2 Pin=U1-42
+Removed Pin From Net: NetName=NetD2_A Pin=U1-44
+Removed Pin From Net: NetName=NetQ2_1 Pin=U1-46
+Removed Pin From Net: NetName=NetC18_1 Pin=Y2-1
+Removed Pin From Net: NetName=NetC19_1 Pin=Y2-3
+Added Component: Designator=C24(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0603D100MXCAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0603D100MXCAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y?(XTAL_ASFL1-16.000MHZ-EC-T)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASFL1-16.000MHZ-EC-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=U1-16
+Added Pin To Net: NetName=NetR7_2 Pin=U1-18
+Added Pin To Net: NetName=NetD2_A Pin=U1-20
+Added Pin To Net: NetName=NetQ2_1 Pin=U1-22
+Added Pin To Net: NetName=3V3 Pin=Y2-4
+Added Pin To Net: NetName=NetC18_1 Pin=Y?-1
+Added Pin To Net: NetName=GND Pin=Y?-2
+Added Pin To Net: NetName=NetC19_1 Pin=Y?-3
+Added Pin To Net: NetName=3V3 Pin=Y?-4
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=Y2-1
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=U1-45
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=Y2-3
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=U1-46
+Added Net: Name=NetC25_2
+Added Member To Class: ClassName=Sheet2 Member=Component C24 CAP
+Added Member To Class: ClassName=Sheet2 Member=Component C25 CAP
+Added Member To Class: ClassName=Sheet2 Member=Component Y? ASFL1-16.000MHZ-EC-T

@@ -1,0 +1,11 @@
+Added Component: Designator=LS1(CUI_CST-951AP)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CST-951AP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LS1-M
+Added Pin To Net: NetName=NetLS1_P Pin=LS1-P
+Added Member To Class: ClassName=Sheet2 Member=Component LS1 CST-951AP
+Added Member To Class: ClassName=Sheet2 Member=Component U1 NRF52840-DONGLE

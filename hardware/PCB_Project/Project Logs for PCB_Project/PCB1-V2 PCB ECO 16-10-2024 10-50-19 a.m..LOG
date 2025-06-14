@@ -1,0 +1,33 @@
+Change Component DesignItemId : Designator=D5 Old DesignItemId=1N4004 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=R13 Old DesignItemId=CRS1206-FX-1004ELF New DesignItemId=RES 0603
+Change Component DesignItemId : Designator=R7 Old DesignItemId=RC1206JR-07220RL New DesignItemId=RES 0603
+Change Component Footprint: Designator=D5 Old Footprint=DIOM4330X250N New Footprint=1N4148WS
+Change Component Footprint: Designator=R7 Old Footprint=RESC3116X65N New Footprint=RESC1608X50N
+Change Component Footprint: Designator=R13 Old Footprint=RESC3116X65N New Footprint=RESC1608X50N
+Change Component Comment : Designator=R13 Old Comment=1M Ohms New Comment=1MO
+Change Component Comment : Designator=D5 Old Comment=1N4004 New Comment=1N4148WS
+Change Component Comment : Designator=R7 Old Comment=330 Ohms New Comment=220O
+Change Component Description : Designator=D5 Old Description=1A, 50V - 1000V Fast Surface Mount Rectifier New Description=1N4148WS, SOD-323F, 100V, 0,15A, 150°C
+Change Component Description : Designator=R7 Old Description=220 Ohms Â±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Thick Film New Description=220O 0603 Chip Resistor
+Change Component Description : Designator=R13 Old Description=RESISTOR, THICK FILM, 1M, 1%, 1206 New Description=1MO 0603 Chip Resistor
+Change component parameters: Designator = "D5" ("D5"); Footprint = "DIOM4330X250N"; UniqueID = "\ZUHGQFIP" ("\ZUHGQFIP")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4148WS/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-323F Diotec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4148WS/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC3116X65N"; UniqueID = "\AXFVQLNQ" ("\AXFVQLNQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC3116X65N"; UniqueID = "\NUKZIFLG" ("\NUKZIFLG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

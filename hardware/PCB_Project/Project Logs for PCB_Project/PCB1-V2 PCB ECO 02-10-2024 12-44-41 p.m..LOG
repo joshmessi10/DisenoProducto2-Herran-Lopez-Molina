@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=DG-1
+Removed Pin From Net: NetName=VCC Pin=DR-1
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=VCC Pin=R14-2
+Added Pin To Net: NetName=5V Pin=DG-1
+Added Pin To Net: NetName=5V Pin=DR-1
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=5V Pin=R14-2
+Added Net: Name=5V
+Added Rule: Name=Schematic Supply Nets_3

@@ -1,0 +1,36 @@
+Added Component: Designator=U1(nRf51822)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1490-1031-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nordic-semiconductor-asa/NRF51822-QFAA-R7/1490-1031-1-ND/4626399?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF51822-QFAA-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-48 Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF51822-QFAA-R7/Nordic%20Semiconductor%20ASA/view-part/50620/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-5
+Added Pin To Net: NetName=NetR7_2 Pin=U1-7
+Added Pin To Net: NetName=NetR10_1 Pin=U1-8
+Added Pin To Net: NetName=NetR11_1 Pin=U1-9
+Added Pin To Net: NetName=3V3 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=NetD6_1 Pin=U1-14
+Added Pin To Net: NetName=NetQ2_1 Pin=U1-16
+Added Pin To Net: NetName=NetD2_A Pin=U1-18
+Added Pin To Net: NetName=NetR3_2 Pin=U1-20
+Added Pin To Net: NetName=NetH2_01 Pin=U1-23
+Added Pin To Net: NetName=NetH2_02 Pin=U1-24
+Added Pin To Net: NetName=NetC11_1 Pin=U1-29
+Added Pin To Net: NetName=NetC12_1 Pin=U1-30
+Added Pin To Net: NetName=NetL1_1 Pin=U1-31
+Added Pin To Net: NetName=NetC14_1 Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U1-34
+Added Pin To Net: NetName=3V3 Pin=U1-35
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=NetC18_1 Pin=U1-37
+Added Pin To Net: NetName=NetC19_1 Pin=U1-38
+Added Pin To Net: NetName=NetC20_1 Pin=U1-39
+Added Pin To Net: NetName=NetC24_2 Pin=U1-45
+Added Pin To Net: NetName=NetC25_2 Pin=U1-46
+Added Member To Class: ClassName=FinalSchematic Member=Component U1 NRF51822-QFAA-R7

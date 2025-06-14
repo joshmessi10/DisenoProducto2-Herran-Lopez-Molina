@@ -1,0 +1,21 @@
+Added Component: Designator=RP(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RN73C2A1K5BTDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_MINI-SPDT-SW)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MINI-SPDT-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=RP-1
+Added Pin To Net: NetName=NetRP_2 Pin=RP-2
+Added Pin To Net: NetName=NetQ1_3 Pin=S3-1
+Added Pin To Net: NetName=3V3 Pin=S3-2
+Added Pin To Net: NetName=NetRP_2 Pin=S3-3
+Added Member To Class: ClassName=Sheet2 Member=Component RP 10kO
+Added Member To Class: ClassName=Sheet2 Member=Component S3 Switch Para Programar

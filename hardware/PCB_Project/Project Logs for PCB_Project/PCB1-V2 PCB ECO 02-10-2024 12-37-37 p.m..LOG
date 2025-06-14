@@ -1,0 +1,32 @@
+Added Component: Designator=H1(SAMTEC_TMS-101-51-G-D)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TMS-101-51-G-D/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TMS-101-51-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TMS-101-51-G-D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TMS-101-51-G-D/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H2(SAMTEC_TMS-101-51-G-D)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TMS-101-51-G-D/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TMS-101-51-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TMS-101-51-G-D/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TMS-101-51-G-D/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=H1-01
+Added Pin To Net: NetName=GND Pin=H1-02
+Added Pin To Net: NetName=NetH2_01 Pin=H2-01
+Added Pin To Net: NetName=NetH2_01 Pin=U1-23
+Added Net: Name=NetH2_01
+Added Pin To Net: NetName=NetH2_02 Pin=H2-02
+Added Pin To Net: NetName=NetH2_02 Pin=R21-2
+Added Pin To Net: NetName=NetH2_02 Pin=U1-24
+Added Net: Name=NetH2_02
+Change Class Name : Old Net Name=Sheet2 New Net Name=FinalSchematic
+Added Member To Class: ClassName=FinalSchematic Member=Component H1 Header
+Added Member To Class: ClassName=FinalSchematic Member=Component H2 Header

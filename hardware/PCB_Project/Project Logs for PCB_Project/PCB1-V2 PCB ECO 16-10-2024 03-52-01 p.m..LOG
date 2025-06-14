@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Change Component Comment : Designator=C15 Old Comment=1pF New Comment=0.5pF
+Change Component Comment : Designator=C14 Old Comment=2.2pF New Comment=2pF
+Change Component Comment : Designator=L1 Old Comment=4.7nH New Comment=3.3nH
+Change Component Comment : Designator=C18 Old Comment=12pF New Comment=22pF
+Change Component Comment : Designator=C19 Old Comment=12pF New Comment=22pF
+Change Component Comment : Designator=C24 Old Comment=12pF New Comment=22pF
+Change Component Comment : Designator=C25 Old Comment=12pF New Comment=22pF
+Change Component Comment : Designator=C11 Old Comment=47nF New Comment=0.1uF
+Change Component Comment : Designator=R20 Old Comment=330 Ohms New Comment=220O
+Change Component Description : Designator=C15 Old Description=CAP 0603 0.1uF New Description=CAP 0603 0.5pF
+Change Component Description : Designator=C16 Old Description=CAP 0603 0.1uF New Description=CAP 0603 1.5pF
+Change Component Description : Designator=C12 Old Description=CAP 0603 0.1uF New Description=CAP 0603 2.2nF
+Change Component Description : Designator=C14 Old Description=CAP 0603 0.1uF New Description=CAP 0603 2pF
+Change Component Description : Designator=C18 Old Description=CAP 0603 0.1uF New Description=CAP 0603 22pF
+Change Component Description : Designator=C19 Old Description=CAP 0603 0.1uF New Description=CAP 0603 22pF
+Change Component Description : Designator=C24 Old Description=CAP 0603 0.1uF New Description=CAP 0603 22pF
+Change Component Description : Designator=L1 Old Description=Inductor with Inductance 4.7nH Package 0603 (1608) New Description=Inductor with Inductance 3.3nH Package 0603 (1608)
+Change Component Description : Designator=R21 Old Description=RES 0603 New Description=10kO 0603 Chip Resistor
+Change Component Description : Designator=R20 Old Description=RES 0603 New Description=220O 0603 Chip Resistor
+Added Component: Designator=C13(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0603D100MXCAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_1 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=U1-45
+Added Pin To Net: NetName=NetC24_1 Pin=Y2-1
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=U1-46
+Added Pin To Net: NetName=NetC25_1 Pin=Y2-2
+Added Net: Name=NetC25_1
+Added Member To Class: ClassName=FinalSchematic Member=Component C13 0.5pF

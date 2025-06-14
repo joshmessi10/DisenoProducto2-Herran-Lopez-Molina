@@ -1,0 +1,12 @@
+Added Component: Designator=U2(SOT-23-5)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "576-1259-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.in/product-detail/en/microchip-technology/MIC5205-3.3YM5-TR/576-1259-1-ND/771886?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MIC5205-3.3YM5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MIC5205-3.3YM5-TR/Microchip/view-part/424295/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U2-5
+Added Member To Class: ClassName=Sheet2 Member=Component U2 MIC5205-3.3

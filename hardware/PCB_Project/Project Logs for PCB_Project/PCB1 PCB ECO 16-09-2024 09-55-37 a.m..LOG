@@ -1,0 +1,8 @@
+Added Component: Designator=A1(ADXL345)
+Added Pin To Net: NetName=GND Pin=A1-1
+Added Pin To Net: NetName=VCC Pin=A1-2
+Added Pin To Net: NetName=VCC Pin=A1-3
+Added Pin To Net: NetName=NetA1_7 Pin=A1-7
+Added Pin To Net: NetName=NetA1_8 Pin=A1-8
+Added Member To Class: ClassName=Sheet2 Member=Component A1 ADXL345
+Add Class Member: Failed to add class member : Component M1 ESP32S3

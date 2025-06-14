@@ -1,0 +1,48 @@
+Change Component Footprint: Designator=DG Old Footprint=LEDC2012X70N New Footprint=LED_KP-1608SURCK
+Change Component Footprint: Designator=DR Old Footprint=LEDC2012X70N New Footprint=LED_KP-1608SURCK
+Change component parameters: Designator = "DG" ("DG"); Footprint = "LEDC2012X70N"; UniqueID = "\BAPQKVOZ" ("\BAPQKVOZ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "KP-1608SURCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "DR" ("DR"); Footprint = "LEDC2012X70N"; UniqueID = "\WXDOPDCY" ("\WXDOPDCY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "KP-1608SURCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC1608X50N"; UniqueID = "\SOPLPCBS" ("\SOPLPCBS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RESC1608X50N"; UniqueID = "\APVLGTRF" ("\APVLGTRF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RESC1608X50N"; UniqueID = "\NHFWHYKQ" ("\NHFWHYKQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDG_1 Pin=DG-1
+Added Pin To Net: NetName=NetDG_1 Pin=DR-1
+Added Pin To Net: NetName=NetDG_1 Pin=J1-1
+Added Pin To Net: NetName=NetDG_1 Pin=R14-2
+Added Net: Name=NetDG_1
+Added Pin To Net: NetName=NetDG_2 Pin=DG-2
+Added Pin To Net: NetName=NetDG_2 Pin=R15-2
+Added Net: Name=NetDG_2
+Added Pin To Net: NetName=NetDR_2 Pin=DR-2
+Added Pin To Net: NetName=NetDR_2 Pin=R16-2
+Added Net: Name=NetDR_2

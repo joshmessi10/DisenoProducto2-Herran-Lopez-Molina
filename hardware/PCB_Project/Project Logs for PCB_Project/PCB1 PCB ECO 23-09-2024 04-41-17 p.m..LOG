@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=R2-1
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=NetC3_1 Pin=R8-2
+Change Component Comment : Designator=D1 Old Comment=1N4007W-T New Comment=1N4007
+Change Component Comment : Designator=D2 Old Comment=1N4007W-T New Comment=1N4007
+Change Component Comment : Designator=D3 Old Comment=1N4007W-T New Comment=1N4007
+Change Component Comment : Designator=SW Old Comment=RS-032G05A3-SMRT New Comment=SMD
+Added Component: Designator=U(QFN40P600X600X90-49N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1490-1031-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nordic-semiconductor-asa/NRF51822-QFAA-R7/1490-1031-1-ND/4626399?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF51822-QFAA-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-48 Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF51822-QFAA-R7/Nordic%20Semiconductor%20ASA/view-part/50620/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=D4-C
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=NetD2_2 Pin=R2-2
+Added Pin To Net: NetName=NetC3_1 Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=U-1
+Added Pin To Net: NetName=3V3 Pin=U-12
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-2
+Added Pin To Net: NetName=NetR4_2 Pin=R8-2
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=Sheet2 Member=Component U NRF51822-QFAA-R7

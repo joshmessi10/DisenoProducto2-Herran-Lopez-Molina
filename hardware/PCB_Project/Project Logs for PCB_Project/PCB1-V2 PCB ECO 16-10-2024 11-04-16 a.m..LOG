@@ -1,0 +1,51 @@
+Change Component DesignItemId : Designator=R9 Old DesignItemId=CRS1206-FX-1004ELF New DesignItemId=RES 0603
+Change Component DesignItemId : Designator=R10 Old DesignItemId=CRS1206-FX-1004ELF New DesignItemId=RES 0603
+Change Component DesignItemId : Designator=R11 Old DesignItemId=CRS1206-FX-1004ELF New DesignItemId=RES 0603
+Change Component DesignItemId : Designator=R12 Old DesignItemId=CRS1206-FX-1004ELF New DesignItemId=RES 0603
+Change Component DesignItemId : Designator=C4 Old DesignItemId=GCM21BR71H104KA37K New DesignItemId=Capacitor
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X94N
+Change Component Footprint: Designator=R9 Old Footprint=RESC2012X65N New Footprint=RESC1608X50N
+Change Component Footprint: Designator=R10 Old Footprint=RESC2012X65N New Footprint=RESC1608X50N
+Change Component Footprint: Designator=R11 Old Footprint=RESC2012X65N New Footprint=RESC1608X50N
+Change Component Footprint: Designator=R12 Old Footprint=RESC3116X65N New Footprint=RESC1608X50N
+Change Component Comment : Designator=C4 Old Comment=0.1uF New Comment=Capacitor
+Change Component Description : Designator=R9 Old Description=RESISTOR, THICK FILM, 1M, 1%, 1206 New Description=4.7kO 0603 Chip Resistor
+Change Component Description : Designator=R10 Old Description=RESISTOR, THICK FILM, 1M, 1%, 1206 New Description=4.7kO 0603 Chip Resistor
+Change Component Description : Designator=R11 Old Description=RESISTOR, THICK FILM, 1M, 1%, 1206 New Description=4.7kO 0603 Chip Resistor
+Change Component Description : Designator=R12 Old Description=RESISTOR, THICK FILM, 1M, 1%, 1206 New Description=10kO 0603 Chip Resistor
+Change Component Description : Designator=C4 Old Description=SMD Capacitor X7R(EIA) with Capacitance: 0.10uF Tol. 10%. Rated Voltage: 50Vdc New Description=CAP 0603 0.1uF
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC2012X135N"; UniqueID = "\GMGBGUQR" ("\GMGBGUQR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "VJ0603D100MXCAP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC2012X65N"; UniqueID = "\EGAZYZET" ("\EGAZYZET")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC2012X65N"; UniqueID = "\GYWFQPDK" ("\GYWFQPDK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC2012X65N"; UniqueID = "\ATLGRRAX" ("\ATLGRRAX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC3116X65N"; UniqueID = "\IYZSAYZD" ("\IYZSAYZD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

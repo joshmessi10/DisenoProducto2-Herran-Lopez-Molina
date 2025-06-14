@@ -1,0 +1,52 @@
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CAP New DesignItemId=GCM21BR71H104KA37K
+Change Component DesignItemId : Designator=C3 Old DesignItemId=GCM21BR71H104KA37K New DesignItemId=Capacitor
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RC1206JR-07220RL New DesignItemId=RES 0603
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RC1206JR-07220RL New DesignItemId=RES 0603
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RC1206JR-07220RL New DesignItemId=RES 0603
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X94N New Footprint=CAPC2012X135N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X94N
+Change Component Footprint: Designator=R4 Old Footprint=RESC3116X65N New Footprint=RESC1608X50N
+Change Component Footprint: Designator=R5 Old Footprint=RESC3116X65N New Footprint=RESC1608X50N
+Change Component Footprint: Designator=R8 Old Footprint=RESC3116X65N New Footprint=RESC1608X50N
+Change Component Description : Designator=R4 Old Description=220 Ohms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Thick Film New Description=10KO 0603 Chip Resistor
+Change Component Description : Designator=R5 Old Description=220 Ohms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Thick Film New Description=10KO 0603 Chip Resistor
+Change Component Description : Designator=R8 Old Description=220 Ohms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Thick Film New Description=10O 0603 Chip Resistor
+Change Component Description : Designator=C3 Old Description=SMD Capacitor X7R(EIA) with Capacitance: 0.10uF Tol. 10%. Rated Voltage: 50Vdc New Description=CAP 0603 0.1uF
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC2012X135N"; UniqueID = "\ZGZEBTGR" ("\ZGZEBTGR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "VJ0603D100MXCAP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC1608X94N"; UniqueID = "\PNSOWFTV" ("\PNSOWFTV")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1764792"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1764792"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GCM21BR71H104KA37K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GCM21BR71H104KA37K/Murata%20Electronics%20North%20America/view-part/1764792/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC3116X65N"; UniqueID = "\XGAIWOER" ("\XGAIWOER")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC3116X65N"; UniqueID = "\CBWZLNSL" ("\CBWZLNSL")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC3116X65N"; UniqueID = "\BPKCTYDC" ("\BPKCTYDC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "4-2176243-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

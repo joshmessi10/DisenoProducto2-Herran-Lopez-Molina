@@ -1,0 +1,6 @@
+Change Component Comment : Designator=C24 Old Comment=CAP New Comment=22pF
+Change Component Comment : Designator=C25 Old Comment=CAP New Comment=22pF
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC24_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC25_2 Pin=Y2-3

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetDG_1 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Member From Class: ClassName=Sheet2 Member=J1
+Change Component Comment : Designator=Y2 Old Comment=ECS-327TXO-33-TR New Comment=CO 32.768MHz
+Added Component: Designator=J?(MOLEX_1050170002)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1050170002/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1050170002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1050170002/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDG_1 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Member To Class: ClassName=Sheet2 Member=Component J? 1050170002

@@ -1,0 +1,39 @@
+Add Component: Footprint Not Found CAPC1608X94N
+Add Component: Footprint Not Found CAPC1608X94N
+Add Component: Footprint Not Found CAPC1608X94N
+Added Component: Designator=L1(INDC1608X95N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQM18DN100M70L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LQM18DN100M70L/Murata/view-part/4834755/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDC1608X95N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LQM18DN100M70L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LQM18DN100M70L/Murata/view-part/4834755/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-2
+Added Pin To Net: NetName=NetC11_1 Pin=U1-29
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=L2-1
+Added Pin To Net: NetName=NetC12_1 Pin=U1-30
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L2-2
+Added Pin To Net: NetName=NetL1_1 Pin=U1-31
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U1-32
+Added Net: Name=NetL1_2
+Add Class Member: Failed to add class member : Component C11 100nF
+Add Class Member: Failed to add class member : Component C12 2.2nF
+Add Class Member: Failed to add class member : Component C13 0.5pF
+Added Member To Class: ClassName=Sheet2 Member=Component L1 3.3nH
+Added Member To Class: ClassName=Sheet2 Member=Component L2 10nH

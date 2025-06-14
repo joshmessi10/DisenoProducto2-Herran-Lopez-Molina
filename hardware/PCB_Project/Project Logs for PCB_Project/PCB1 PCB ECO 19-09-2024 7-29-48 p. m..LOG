@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=GND Pin=A1-1
+Removed Pin From Net: NetName=VCC Pin=A1-2
+Removed Pin From Net: NetName=VCC Pin=A1-3
+Removed Pin From Net: NetName=GND Pin=LS1-M
+Removed Pin From Net: NetName=NetQ3_1 Pin=Q3-1
+Removed Pin From Net: NetName=VCC Pin=Q3-2
+Removed Pin From Net: NetName=VCC Pin=R4-1
+Removed Member From Class: ClassName=Sheet2 Member=A1
+Change Component Comment : Designator=R2 Old Comment=1K Ohms New Comment=10K Ohms
+Change Component Comment : Designator=R8 Old Comment=330 Ohms New Comment=10 Ohms
+Change Component Comment : Designator=C2 Old Comment=Cap 10uF New Comment=Cap 0.1uF
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=C2(CAPC2012X135N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1764792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1764792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCM21BR71H104KA37K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GCM21BR71H104KA37K/Murata%20Electronics%20North%20America/view-part/1764792/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2012X135N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1764792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1764792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCM21BR71H104KA37K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GCM21BR71H104KA37K/Murata%20Electronics%20North%20America/view-part/1764792/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRS1206-FX-1004ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(PQFN80P500X300X100-14N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ADXL345/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ADXL345"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA -14 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ADXL345/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetB1_1 Pin=LS1-P
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetB1_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetR7_2 Pin=R13-2
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=VCC Pin=U?-6
+Change Net Name : Old Net Name=NetB1_1 New Net Name=VCC
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=VCC New Net Name=3V3
+Added Pin To Net: NetName=NetLS1_M Pin=LS1-M
+Added Pin To Net: NetName=NetLS1_M Pin=Q3-3
+Added Net: Name=NetLS1_M
+Added Pin To Net: NetName=NetR9_1 Pin=U?-12
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=U?-13
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=U?-14
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=U?-7
+Added Net: Name=NetR12_1
+Added Member To Class: ClassName=Sheet2 Member=Component C3 Cap 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C4 Cap 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component R13 1M Ohms
+Added Member To Class: ClassName=Sheet2 Member=Component U? ADXL345

@@ -1,0 +1,18 @@
+Added Component: Designator=U1(MODULE_NRF52840-DONGLE)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF52840-DONGLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF52840-DONGLE/Nordic%20Semiconductor%20ASA/view-part/2873714/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetA1_8 Pin=U1-0.02
+Added Pin To Net: NetName=NetD2_2 Pin=U1-0.13
+Added Pin To Net: NetName=NetQ2_1 Pin=U1-0.15
+Added Pin To Net: NetName=NetR3_2 Pin=U1-0.17
+Added Pin To Net: NetName=NetR7_2 Pin=U1-0.20
+Added Pin To Net: NetName=NetA1_7 Pin=U1-0.29
+Added Pin To Net: NetName=NetC2_1 Pin=U1-0.31
+Added Pin To Net: NetName=GND Pin=U1-G1
+Added Pin To Net: NetName=VCC Pin=U1-VBUS
+Added Member To Class: ClassName=Sheet2 Member=Component U1 NRF52840-DONGLE

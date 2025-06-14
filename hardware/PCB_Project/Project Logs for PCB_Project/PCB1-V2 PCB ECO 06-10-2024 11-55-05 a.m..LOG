@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=RP-1
+Removed Pin From Net: NetName=3V3 Pin=S3-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=U1-16
+Removed Member From Class: ClassName=FinalSchematic Member=RP
+Removed Member From Class: ClassName=FinalSchematic Member=S3
+Added Pin To Net: NetName=3V3 Pin=Q1-3

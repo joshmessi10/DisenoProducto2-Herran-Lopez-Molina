@@ -1,0 +1,9 @@
+Add Pin To Net: Unknown Pin: Pin A1-1
+Add Pin To Net: Unknown Pin: Pin A1-2
+Add Pin To Net: Unknown Pin: Pin A1-3
+Added Pin To Net: NetName=NetA1_7 Pin=U1-0.15
+Added Net: Name=NetA1_7
+Added Pin To Net: NetName=NetA1_8 Pin=U1-0.13
+Added Net: Name=NetA1_8
+Add Class Member: Failed to add class member : Component M1 ESP32S3
+Added Member To Class: ClassName=Sheet2 Member=Component U1 NRF52840-DONGLE

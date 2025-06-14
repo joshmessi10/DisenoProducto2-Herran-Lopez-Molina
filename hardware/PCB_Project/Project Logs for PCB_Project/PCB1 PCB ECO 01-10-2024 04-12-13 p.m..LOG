@@ -1,0 +1,10 @@
+Added Component: Designator=T1(Testpoint1)
+Added Component: Designator=T2(Testpoint1)
+Added Component: Designator=T3(Testpoint1)
+Added Pin To Net: NetName=VCC Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T2-1
+Added Pin To Net: NetName=NetC1_1 Pin=T3-1
+Added Member To Class: ClassName=Sheet2 Member=Component T1 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component T2 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component T3 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component U3 TP4056

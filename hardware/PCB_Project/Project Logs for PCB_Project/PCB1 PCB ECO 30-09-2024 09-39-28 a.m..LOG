@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VCC Pin=LS1-P
+Removed Pin From Net: NetName=VCC Pin=M2-1
+Removed Pin From Net: NetName=GND Pin=M2-2
+Removed Pin From Net: NetName=NetC1_1 Pin=M2-5
+Removed Pin From Net: NetName=NetQ2_1 Pin=U1-16
+Removed Pin From Net: NetName=NetD2_A Pin=U1-18
+Removed Member From Class: ClassName=Sheet2 Member=LS1
+Removed Member From Class: ClassName=Sheet2 Member=M2
+Change Component Comment : Designator=C1 Old Comment=Cap 10uF New Comment=Cap 4.7uF
+Added Component: Designator=3(XDCR_SMT-0540-S-R)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'PUI Audio, Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMT-0540-S-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VJ0603D100MXCAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(*SOT230P700X180-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AP7361-33ER-13/Diodes+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AP7361-33ER-13/Diodes+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=3-LEAD+
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=NetC1_1 Pin=U4-2
+Added Pin To Net: NetName=VCC Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=Net3_LEAD- Pin=3-LEAD-
+Added Pin To Net: NetName=Net3_LEAD- Pin=Q3-3
+Added Net: Name=Net3_LEAD-
+Added Member To Class: ClassName=Sheet2 Member=Component 3 SMT-0540-S-R
+Added Member To Class: ClassName=Sheet2 Member=Component C7 1uF
+Added Member To Class: ClassName=Sheet2 Member=Component U4 AP7361-33ER-13
