@@ -1,0 +1,20 @@
+#Instalar Nodejs
+curl -fsSL https://deb.nodesource.com/setup_23.x -o nodesource_setup.sh
+sudo -E bash nodesource_setup.sh
+sudo apt install -y nodejs
+#Instalar Vue 
+sudo npm install -g @vue/cli
+
+sudo apt install apache2
+sudo systemctl enable apache2
+cd /var/www/
+sudo git clone https://github.com/joshmessi10/frontend
+cd frontend
+sudo npm install
+sudo npm install axios
+sudo npm run build
+sudo rm -rf ../html/index.html
+sudo mv dist/* ../html/
+sudo nano /etc/apache2/sites-available/000-default.conf 
+(FallbackResource /index.html)
+sudo systemctl restart apache2

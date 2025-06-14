@@ -1,0 +1,153 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1D2B57"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="24dp">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal"
+    >
+
+
+    <!-- Title TextView -->
+    <TextView
+        android:id="@+id/idTVTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:text="Login to your Account"
+        android:textColor="#C5C5C5"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <!-- ID Usuario EditText -->
+    <EditText
+        android:id="@+id/idEdt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="sans-serif"
+        android:hint="Enter your Email"
+        android:inputType="text"
+        android:padding="16dp"
+
+        android:textColor="#D8D6D6"
+        android:textSize="16sp" />
+
+    <!-- Nombre Billetera EditText -->
+    <EditText
+        android:id="@+id/idEdt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif"
+        android:hint="Enter your password"
+        android:inputType="text"
+        android:padding="16dp"
+
+        android:textColor="#B8B6B6"
+        android:textSize="16sp" />
+
+    <!-- Send Data Button -->
+    <Button
+        android:id="@+id/idBtnPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="24dp"
+        android:text="Log In"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <!-- Loading ProgressBar -->
+    <ProgressBar
+        android:id="@+id/idLoadingPB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+    <!-- Response TextView -->
+    <TextView
+        android:id="@+id/idTVResponse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:textColor="#2196F3"
+        android:textSize="18sp" />
+
+    <!-- Response TextView -->
+    <TextView
+        android:id="@+id/idTVResponse2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:textColor="#2196F3"
+        android:textSize="18sp" />
+
+    <!-- Stats Section -->
+    <TextView
+        android:id="@+id/bluetoothTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:text="Bluetooth: "
+        android:textColor="#2196F3"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/batteryTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:text="Battery: "
+        android:textColor="#2196F3"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/buzzerTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:text="Buzzer: "
+        android:textColor="#2196F3"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/movementTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:text="Movement: "
+        android:textColor="#2196F3"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/stateTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:text="State: "
+        android:textColor="#2196F3"
+        android:textSize="18sp" />
+</LinearLayout>
